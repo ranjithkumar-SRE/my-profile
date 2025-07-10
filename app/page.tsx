@@ -102,14 +102,16 @@ export default function Portfolio() {
               </div>
 
               <div className="flex flex-col sm:flex-row gap-4 mb-8">
-                <Button
-                  variant="outline"
-                  size="lg"
-                  className="px-8 py-3 rounded-full border-2 border-gray-300 hover:border-blue-500 hover:text-blue-600 bg-transparent"
-                >
-                  <Mail className="w-4 h-4 mr-2" />
-                  Let’s Connect
-                </Button>
+                <a href="mailto:bcranjithkumar9@gmail.com">
+                  <Button
+                    variant="outline"
+                    size="lg"
+                    className="px-8 py-3 rounded-full border-2 border-gray-300 hover:border-blue-500 hover:text-blue-600 bg-transparent"
+                  >
+                    <Mail className="w-4 h-4 mr-2" />
+                    Let's Connect
+                  </Button>
+                </a>
               </div>
 
               <div className="flex items-center space-x-6 text-gray-600">
