@@ -88,9 +88,6 @@ export default function Portfolio() {
               className={`transition-all duration-1000 ${isVisible ? "opacity-100 translate-x-0" : "opacity-0 -translate-x-10"}`}
             >
               <div className="mb-6">
-                <Badge className="mb-4 bg-blue-100 text-blue-800 hover:bg-blue-200">
-                  Available for New Opportunities
-                </Badge>
                 <h1 className="text-4xl md:text-6xl font-bold bg-gradient-to-r from-gray-900 via-blue-800 to-gray-900 bg-clip-text text-transparent mb-4">
                   Ranjith Kumar
                 </h1>
