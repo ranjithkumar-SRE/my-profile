@@ -1,1 +1,1 @@
-# Ranjith Kumar portfolio
+# Manikanta Kuppala portfolio
